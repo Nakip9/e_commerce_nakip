@@ -1,0 +1,59 @@
+{
+  "navigation": {
+    "shop": "تسوق",
+    "cart": "السلة"
+  },
+  "footer": {
+    "rights": "جميع الحقوق محفوظة."
+  },
+  "messages": {
+    "loading": "جاري التحميل..."
+  },
+  "catalog": {
+    "featuredProducts": "منتجات مختارة",
+    "searchPlaceholder": "ابحث بالاسم أو الفئة أو رمز المنتج",
+    "priceWithCurrency": "دولار {{value}}",
+    "inStock": "متوفر في المخزون",
+    "outOfStock": "غير متوفر",
+    "customerReviews": "مراجعات العملاء",
+    "noReviews": "لا توجد مراجعات بعد",
+    "noResults": "لا توجد منتجات مطابقة لبحثك"
+  },
+  "actions": {
+    "viewDetails": "عرض التفاصيل",
+    "addToCart": "أضف إلى السلة",
+    "remove": "إزالة"
+  },
+  "cart": {
+    "title": "سلة التسوق",
+    "empty": "سلة التسوق فارغة",
+    "product": "المنتج",
+    "price": "السعر",
+    "quantity": "الكمية",
+    "total": "الإجمالي",
+    "subtotal": "المجموع",
+    "proceedToCheckout": "إتمام الشراء",
+    "checkoutNotImplemented": "عملية الدفع مفعّلة عبر واجهة البرمجة فقط",
+    "shipping": "الشحن",
+    "checkout": "إتمام الشراء",
+    "shippingAddress": "عنوان الشحن",
+    "billingAddress": "عنوان الفاتورة",
+    "shippingMethod": "طريقة الشحن",
+    "standardShipping": "عادي (3-5 أيام)",
+    "expressShipping": "سريع (1-2 يوم)",
+    "paymentMethod": "طريقة الدفع",
+    "creditCard": "بطاقة ائتمان",
+    "cashOnDelivery": "الدفع عند الاستلام",
+    "addressLine1": "السطر الأول للعنوان",
+    "addressLine2": "السطر الثاني للعنوان",
+    "city": "المدينة",
+    "state": "الولاية / المحافظة",
+    "postalCode": "الرمز البريدي",
+    "country": "الدولة",
+    "phoneNumber": "رقم الهاتف",
+    "processing": "جارٍ المعالجة...",
+    "orderSuccess": "شكراً لك! تم إنشاء الطلب رقم {{orderId}} بنجاح.",
+    "loginRequired": "يرجى تسجيل الدخول لإكمال عملية الشراء.",
+    "paypal": "باي بال"
+  }
+}
