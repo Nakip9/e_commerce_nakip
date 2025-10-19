@@ -1,0 +1,59 @@
+{
+  "navigation": {
+    "shop": "Shop",
+    "cart": "Cart"
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  },
+  "messages": {
+    "loading": "Loading..."
+  },
+  "catalog": {
+    "featuredProducts": "Featured Products",
+    "searchPlaceholder": "Search by name, category or SKU",
+    "priceWithCurrency": "$ {{value}}",
+    "inStock": "In stock",
+    "outOfStock": "Out of stock",
+    "customerReviews": "Customer Reviews",
+    "noReviews": "No reviews yet",
+    "noResults": "No products match your search"
+  },
+  "actions": {
+    "viewDetails": "View details",
+    "addToCart": "Add to cart",
+    "remove": "Remove"
+  },
+  "cart": {
+    "title": "Shopping cart",
+    "empty": "Your cart is empty",
+    "product": "Product",
+    "price": "Price",
+    "quantity": "Quantity",
+    "total": "Total",
+    "subtotal": "Subtotal",
+    "proceedToCheckout": "Proceed to checkout",
+    "checkoutNotImplemented": "Checkout flow is part of the backend API demo",
+    "shipping": "Shipping",
+    "checkout": "Checkout",
+    "shippingAddress": "Shipping address",
+    "billingAddress": "Billing address",
+    "shippingMethod": "Shipping method",
+    "standardShipping": "Standard (3-5 days)",
+    "expressShipping": "Express (1-2 days)",
+    "paymentMethod": "Payment method",
+    "creditCard": "Credit card",
+    "cashOnDelivery": "Cash on delivery",
+    "addressLine1": "Address line 1",
+    "addressLine2": "Address line 2",
+    "city": "City",
+    "state": "State / Province",
+    "postalCode": "Postal code",
+    "country": "Country",
+    "phoneNumber": "Phone number",
+    "processing": "Processing...",
+    "orderSuccess": "Thank you! Order #{{orderId}} has been placed successfully.",
+    "loginRequired": "Please log in to complete your purchase.",
+    "paypal": "PayPal"
+  }
+}
